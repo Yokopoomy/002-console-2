@@ -1,0 +1,12 @@
+{
+  "name": "002-console-2",
+  "version": "1.0.0",
+  "main": "readline.js",
+  "bin": {
+    "readline": "./readline.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
